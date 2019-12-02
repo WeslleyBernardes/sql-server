@@ -7,6 +7,7 @@ CREATE TABLE [dbo].[users](
 	[PrimeiroNome] [varchar](255) NOT NULL,
 	[UltimoNome] [varchar](255) NULL,
 	[Idade] [int] NULL,
+	[DataNascimento] [date] NULL,
 PRIMARY KEY CLUSTERED 
 (
 	[id] ASC
