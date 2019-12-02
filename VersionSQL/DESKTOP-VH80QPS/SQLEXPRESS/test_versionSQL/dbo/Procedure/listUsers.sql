@@ -7,6 +7,7 @@ BEGIN
 	SELECT
 		id,
 		PrimeiroNome,
+		UltimoNome,
 		Idade
 	FROM
 		dbo.users
