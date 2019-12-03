@@ -12,7 +12,7 @@ CREATE TABLE [dbo].[users] (
 		CONSTRAINT [PK__users__3213E83FA9B8E7F7]
 		PRIMARY KEY
 		CLUSTERED
-		()
+		([id])
 	ON [PRIMARY]
 ) ON [PRIMARY]
 GO
