@@ -9,6 +9,7 @@ BEGIN
 		id,
 		PrimeiroNome,
 		UltimoNome,
+		Idade,
 		email
 	FROM
 		dbo.users
