@@ -3,5 +3,5 @@
   <ServerVersion>Sql2017</ServerVersion>
   <ServerName>DESKTOP-VH80QPS\SQLEXPRESS</ServerName>
   <DatabaseName>test_versionSQL</DatabaseName>
-  <DatabaseInformation Version="1" />
+  <DatabaseInformation Version="2" />
 </DatabaseSettings>
