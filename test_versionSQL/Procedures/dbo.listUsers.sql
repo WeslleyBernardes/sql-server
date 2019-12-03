@@ -9,7 +9,8 @@ BEGIN
 		id,
 		PrimeiroNome,
 		UltimoNome,
-		Idade
+		Idade,
+		email
 	FROM
 		dbo.users
 	ORDER BY
